@@ -19,7 +19,7 @@
     ],
     "require": {
         "yiisoft/yii2": "~2.0.0",
-        "imagine/imagine": "~0.6.0 | ~0.7.1"
+        "imagine/imagine": "dev-x-fix7.1"
     },
     "autoload": {
         "psr-4": {
