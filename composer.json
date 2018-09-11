@@ -33,12 +33,12 @@
     },
     "repositories": [
         {
-            "type": "composer",
-            "url": "https://asset-packagist.org"
-        },
-        {
             "type": "vcs",
             "url": "https://github.com/md5ffx/Imagine"
+        },
+        {
+            "type": "composer",
+            "url": "https://asset-packagist.org"
         }
     ]
 }
